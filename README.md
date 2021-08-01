@@ -9,5 +9,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihhernn&layout=compact&langs_count=8&theme=dark)](#)
 
 ## :microphone: How to Reach Me
+[![Linkedin Badge](https://img.shields.io/badge/FatihEren-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatihhernn/)
 
 <p> :e-mail: Mail: fatihhernn@gmail.com
