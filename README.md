@@ -1,5 +1,12 @@
-### Hi there !
+<h1 align="center">Hi 👋, I'm Fatih</h1>
+<h3 align="center">A Android Developer from Istanbul/Turkey</h3>
 
+
+- 🌱 I’m currently learning **React.js, .NET Core, Javascript etc.**
+
+- 📝 I regularly write articles on [My Notion Page](https://fatihhernn.notion.site/c941642c19064e30abb5239019c0eafc?v=4a98ab09b3e6400f98f3b823c568860c) 
+
+- 📫 How to reach me **fatihhernn@gmail.com**
 
 ## :notes: GitHub Stats And Top Languages
 
