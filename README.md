@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">A Android Developer from Istanbul/Turkey</h3>
+<h3 align="center">An Android Developer from Istanbul/Turkey</h3>
 
 
-- 🌱 I’m currently learning **React.js, .NET Core, Javascript etc.**
+- 🌱 I’m currently learning **Kotlin.**
 
 - 📝 I regularly write articles on [My Notion Page](https://fatihhernn.notion.site/c941642c19064e30abb5239019c0eafc?v=4a98ab09b3e6400f98f3b823c568860c) 
 
-- 📫 How to reach me **fatihhernn@gmail.com**
+- 📫 How to reach me **fatihhernn@gmail.com**  
+-  [![Linkedin Badge](https://img.shields.io/badge/FatihEren-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatihhernn/)
 
 ## :notes: GitHub Stats And Top Languages
 
@@ -14,11 +15,6 @@
 [![Stats](http://github-readme-streak-stats.herokuapp.com?user=fatihhernn&theme=highcontrast&fire=CA0000)](#)
 
 
-
-## :microphone: How to Reach Me
-[![Linkedin Badge](https://img.shields.io/badge/FatihEren-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatihhernn/)
-
-<p> :e-mail: Mail: fatihhernn@gmail.com
   
   <h3 align="left">Languages:</h3>
 <p align="left">
@@ -44,5 +40,15 @@
       height="40"
     /> </a
   >
+  <a href="https://tr.wikipedia.org/wiki/C_Sharp" target="_blank">
+    <img
+      src="https://miro.medium.com/max/3954/1*w0u2TZpEp3WfKMrlL5jTSw.png"
+      alt="c#"
+      width="40"
+      height="40"
+    /> </a
+  >
+  
+  
 
 </p>
