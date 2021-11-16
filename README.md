@@ -7,8 +7,7 @@
 
 📝 I write articles on [My Notion Page](https://fatihhernn.notion.site/c941642c19064e30abb5239019c0eafc?v=4a98ab09b3e6400f98f3b823c568860c) 
 
-📫 How to reach me **fatihhernn@gmail.com**  
-
+[![image](https://img.shields.io/badge/FatihEren-send%20a%20mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatihhernn@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/FatihEren-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatihhernn/)
   
 </div>
