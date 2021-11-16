@@ -1,37 +1,60 @@
-<h1 align="center">Hi 👋, I'm Fatih</h1>
+<h1><p align="center">Hello, I'm Fatih! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 <h3 align="center">A Java Developer from Istanbul/Turkey</h3>
 
-
-- 🌱 I’m currently learning **Kotlin.**
-
-- 📝 I write articles on [My Notion Page](https://fatihhernn.notion.site/c941642c19064e30abb5239019c0eafc?v=4a98ab09b3e6400f98f3b823c568860c) 
-
-- 📫 How to reach me **fatihhernn@gmail.com**  
--  [![Linkedin Badge](https://img.shields.io/badge/FatihEren-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatihhernn/)
-
-## :notes: GitHub Stats And Top Languages
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=fatihhernn&show_icons=true&count_private=true&layout=compact&theme=dark)](#)       [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihhernn&layout=compact&langs_count=8&theme=dark)](#)
-[![Stats](http://github-readme-streak-stats.herokuapp.com?user=fatihhernn&theme=highcontrast&fire=CA0000)](#)
-
-
+<div align="center">
   
-  <h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://developer.android.com/" target="_blank"> 
-    <img src="https://www.svgrepo.com/show/303175/android-logo.svg" 
-         alt="linux" width="40" height="40"
-    /> 
+🌱 I’m currently learning **Kotlin.**
+
+📝 I write articles on [My Notion Page](https://fatihhernn.notion.site/c941642c19064e30abb5239019c0eafc?v=4a98ab09b3e6400f98f3b823c568860c) 
+
+📫 How to reach me **fatihhernn@gmail.com**  
+
+[![Linkedin Badge](https://img.shields.io/badge/FatihEren-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatihhernn/)
+  
+</div>
+
+##  My Skills
+
+### 🛠️👉 Programming languages
+
+<p align="left"> 
+  &emsp;
+  <a href="">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23F7DF1E.svg?logo=java&logoColor=white&color=orange"/>
   </a>
-  
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img
-      src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg"
-      alt="kotlin"
-      width="40"
-      height="40"
-    /> </a
-  >
+   &emsp;
+  <a href="">
+    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23F7DF1E.svg?logo=kotlin&logoColor=white&color=purple"/>
+  </a>
+    &emsp;
+  <a href="">
+    <img alt="Ruby" src="https://img.shields.io/badge/sql-%23F7DF1E.svg?logo=ruby&logoColor=white&color=d9534f"/>
+  </a>
+      &emsp;
+</p>
+
+### 🛠️👉  Frameworks Tools & Technologies..
+<p align="left">
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+</p>
+
+
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihhernn&theme=algolia" alt="FatihEren"  /></p>
+
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihhernn&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=python,html,css" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fatihhernn&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
   <a href="https://www.java.com/tr/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
