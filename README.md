@@ -36,9 +36,9 @@
 <p align="left">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
+   <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 </p>
 
 
