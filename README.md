@@ -3,7 +3,7 @@
 
 <div align="center">
   
-🌱 I’m currently learning **Kotlin** and preparing Oracle Certificate Java
+🌱 I’m currently learning **Kotlin** and preparing **Oracle Certificate Java.**
 
 📝 I write articles on [My Notion Page](https://fatihhernn.notion.site/c941642c19064e30abb5239019c0eafc?v=4a98ab09b3e6400f98f3b823c568860c) 
 
