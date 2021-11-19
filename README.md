@@ -52,25 +52,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihhernn&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=python,html,css" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fatihhernn&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-
-<hr>
-  <a href="https://www.java.com/tr/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
-      alt="java"
-      width="40"
-      height="40"
-    /> </a
-  >
-  <a href="https://tr.wikipedia.org/wiki/C_Sharp" target="_blank">
-    <img
-      src="https://miro.medium.com/max/3954/1*w0u2TZpEp3WfKMrlL5jTSw.png"
-      alt="c#"
-      width="40"
-      height="40"
-    /> </a
-  >
-  
   
 
 </p>
