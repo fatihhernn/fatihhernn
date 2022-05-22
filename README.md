@@ -1,11 +1,4 @@
-<h1><p align="center">Hello, I'm Fatih! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
-<h3 align="center">A Java Developer from Istanbul/Turkey</h3>
 
-<div align="center">
-  
-🌱 I’m currently learning **Kotlin** and preparing **Oracle Certificate Java.**
-
-📝 I write articles on [My Notion Page](https://fatihhernn.notion.site/c941642c19064e30abb5239019c0eafc?v=4a98ab09b3e6400f98f3b823c568860c) 
 
 [![image](https://img.shields.io/badge/FatihEren-send%20a%20mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatihhernn@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/FatihEren-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatihhernn/)
